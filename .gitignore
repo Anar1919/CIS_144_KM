@@ -1,5 +1,5 @@
-./build/out
-./build/base-out
+build/out
+build/base-out
 
 # VSCode files
 
